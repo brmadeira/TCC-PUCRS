@@ -1,8 +1,8 @@
 This Notebook corresponds to the experiment developed by Bruno Eduardo Madeira, under the
 supervision of Flávio Arthur Leal Ferreira, as the final project of the specialization course in Data
 Science and Artificial Intelligence from PUCRS (Brazil). The goal of the project was to analize if
-the simulated data available in the 3W dataset (https://www.kaggle.com/datasets/afrniomelo/3w-
-dataset) could be used in models that do not use feature engineering in order to detect problems
+the simulated data available in the 3W dataset (https://www.kaggle.com/datasets/afrniomelo/3w-dataset)
+could be used in models that do not use feature engineering in order to detect problems
 in oil wells. The results show evidences that the signals of sensor created by simulation in the 3W
 dataset present patterns that are not presented in real ones. As a consequence, models trained
 without feature engenieering must be used with caution. In our experiment we have used a Dilated
